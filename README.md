@@ -6,6 +6,6 @@ it is a authentication api, this api generates a token that allows user access t
     - Instal NodeJS
 
 # Config 
-set all config attributes as you want!
+set all config attributes as you want!!
 
 
