@@ -1,11 +1,9 @@
 # auth-api
 it is a authentication api, this api generates a token that allows user access to several endpoint.
 
-# MongoDB
+# Server Dependencies
     - Install mongoDB
-    - Create DB 
-        >use auth-db
-        >db
+    - Instal NodeJS
 
 # Config 
 set all config attributes as you want!
