@@ -1,0 +1,31 @@
+{
+  "name": "auth-api",
+  "version": "1.0.0",
+  "description": "it is a authentication api, this api generates a token that allows user access to several endpoint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeusXD/auth-api.git"
+  },
+  "author": "Zeus",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.28",
+    "mongoose": "^5.9.4",
+    "swagger-ui-express": "^4.1.3",
+    "sync-request": "^6.1.0",
+    "uuid": "^7.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/ZeusXD/auth-api/issues"
+  },
+  "homepage": "https://github.com/ZeusXD/auth-api#readme"
+}
